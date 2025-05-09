@@ -1,0 +1,6 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://scroll-sepolia.public.blastapi.io"
+    }
+  ]
